@@ -2,6 +2,7 @@
     background-image: url("images/hauntedHouse.jpg");
     background-size: cover;
 }
+
 button {
     border: 5px solid #000;
     border-radius: 10px;
@@ -9,11 +10,13 @@ button {
     color: rgb(0, 0, 0);
     font-weight: bold;
 }
+
 .enterButton {
     position: absolute;
     left:57%;
     top:80%;
 }
+
 .stayButton {
     position: absolute;
     left:9%;
@@ -77,6 +80,7 @@ button {
     color: rgb(255, 255, 255);
     background-color:black;
 }
+
 .basement {
     background-image:url("images/basement.jpg");
     background-size:cover;
@@ -102,7 +106,6 @@ button {
     color: rgb(255, 255, 255);
     background-color:black;
 }
-
 
 .winOne {
     background-image:url("images/blackCat2.jpg");
@@ -153,6 +156,23 @@ h1 span {
     padding: 5px;
     padding-left: 5px;
     padding-right: 5px;
+}
+
+.bench {
+    background-image: url("images/spookybench.jpeg");
+    background-size:cover;
+}
+
+.benchButton {
+    position: absolute;
+    left:90%;
+    top:91%;
+}
+
+.takeKey {
+    position: absolute;
+    left:57%;
+    top:69%;
 }
 
 
