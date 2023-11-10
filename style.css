@@ -36,10 +36,15 @@ button {
 
 .restart {
     position: absolute;
-    width:5%;
-    height:5%;
+   /*width:5%;
+    height:5%;*/
 
 
+}
+
+.goBack {
+    position: absolute;
+    right: 1%;
 }
 
 .graveyard {
@@ -49,10 +54,10 @@ button {
 
 .escape {
    position:absolute;
-   width:5%;
-   height:8%;
+   /*width:5%;
+   height:8%;*/
    top:30%;
-   left:90%;
+   left:85%;
     
 }
 
